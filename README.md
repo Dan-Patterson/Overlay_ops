@@ -22,7 +22,7 @@ To this end, I employed:
 
 A few approaches were examined and these will be discussed in time.
 
-<img src="images/E_d0.png" align="right" width="400"/>
+<img src="images/E_d0_.png" align="right" width="400"/>
 
 <img src="images/E_d0_annotated.png" align="right" width="400"/>
 Continue....
