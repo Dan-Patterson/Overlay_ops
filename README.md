@@ -22,7 +22,15 @@ To this end, I employed:
 
 A few approaches were examined and these will be discussed in time.
 
-<img src="images/E_d0_.png" align="right" width="400"/>
+**Two polygons**
 
-<img src="images/E_d0_annotated.png" align="right" width="400"/>
-Continue....
+
+<img src="images/E_d0_.png" align="right" width="300"/>
+The two polygons will be used for an initial example.  *E* is the polygon on the bottom, or the 'target' polygon which will be the subject of the overlay operations.  The second polygon *d0_* is diamond shaped and is used as the overlay polygon.
+
+It would have been far easier, just to use convex polygons to demonstrate principles, but that is the whole point... convex polygons don't reveal the many issues that can arise when doing overlay operations.
+
+
+<img src="images/E_d0_annotated.png" align="right" width="500"/>
+
+To be continued....
